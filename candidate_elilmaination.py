@@ -87,3 +87,4 @@ for s in final_S:
 print("\nFinal G (General Boundary):")
 for g in final_G:
     print(g)
+    
